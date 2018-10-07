@@ -1,0 +1,19 @@
+#vasya{
+	color:green;
+}
+#second{
+	color:blue;
+}
+#third{
+	color: yellow;
+}
+#fourth{
+	color: red;
+}
+
+.big{
+	font-size: 100px;
+}
+.odd{
+	font-style: italic;
+}
